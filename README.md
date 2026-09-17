@@ -18,7 +18,7 @@
 
 💻 **AIRPODS LANDING WEBSITE "CSS"** | **https://github.com/asifkachi928-byte/AIRBIRDS-LANDING-WEBSITE-.git**
 
-💻 **AIRPODS LANDING WEBSITE "CSS"** | 
+💻 **LUXE MOTORS WEBSITE "CSS"** | **https://github.com/asifkachi928-byte/LUXE-MOTORS-WEBSITE.git**
 
 # 👋 Hi, I'm Muhammad Umar
 
