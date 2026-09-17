@@ -1,14 +1,3 @@
-# 🌐 My Website
-
-**🔴LIVE RECIPES WEBSITE "CSS"** | **https://asifkachi928-byte.github.io/RECIPES-WEBSITE-CSS/**
-
-**🔴LIVE PORTFOLIO WEBSITE "HTML"** | **https://asifkachi928-byte.github.io/asifkachi928-byte-muhammad-umar/**
-
-**🔴LIVE AIRPODS LAUNCH WEBSITE "CSS"** | **https://asifkachi928-byte.github.io/AIRBIRDS-LAUNCH-WEBSITE/**
-
-**🔴LIVE AIRPODS LANDING WEBSITE "CSS"** | **https://asifkachi928-byte.github.io/AIRBIRDS-LANDING-WEBSITE-/**
-
-**🔴LIVE LUXE MOTORS WEBSITE "CSS"** |  **https://asifkachi928-byte.github.io/LUXE-MOTORS-WEBSITE/**
 
 # 📂  My Project
 
